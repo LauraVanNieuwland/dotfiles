@@ -49,3 +49,6 @@
 [user]
 	email = lauravannieuwland@gmail.com
 	name = Laura van Nieuwland
+[http]
+	sslbackend = gnutls
+	sslVerify = false
